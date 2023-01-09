@@ -1,3 +1,4 @@
+LICENCE
 pyproject.toml
 setup.cfg
 pylidator/__init__.py
