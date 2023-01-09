@@ -1,6 +1,6 @@
 import pytest
 
-from pylidator.validators import contains
+from pylidity.validators import contains
 
 
 def test_string_contains_seed():

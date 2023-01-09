@@ -1,4 +1,4 @@
-from pylidator.validators import contains
+from pylidity.validators import contains
 
 def check_contains_word():
     subject =  "Hello there, my name is yaa baby, I'm from Ghana"
