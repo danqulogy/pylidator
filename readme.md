@@ -4,6 +4,17 @@ A very good validation library for Python. It features both decorator and non-de
 
 ## Installation & Usage
 
+```[bash]
+pip install pylidator
+```
+
+```[bash]
+# code.py
+from pylidator import contains
+
+contains("Hello world", "world")
+```
+
 ## Contributing
 
 Fork the repository
