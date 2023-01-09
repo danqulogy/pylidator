@@ -1,11 +1,11 @@
-# Pylidator
+# Pylidity
 
 A very good validation library for Python. It features both decorator and non-decorator based validation.
 
 ## Installation & Usage
 
 ```[bash]
-pip install pylidator
+pip install pylidity
 ```
 
 <!-- ```[bash]
@@ -20,7 +20,7 @@ contains("Hello world", "world")
 Fork the repository
 
 ```[bash]
-git clone https://github.com/danqulogy/pylidator.git
+git clone https://github.com/danqulogy/pylidity.git
 ```
 
 Setup virtual environment
@@ -32,9 +32,9 @@ python -m venv venv
 ```
 
 * Setup a development branch
-* Implement validation functions in ```pylidator\pylidator```
-* Write test inside inside ```pylidator\test```
-* Add demos showing usage in ```pylidator\demos```
+* Implement validation functions in ```pylidity\pylidity```
+* Write test inside inside ```pylidity\test```
+* Add demos showing usage in ```pylidity\demos```
 * Make a pull request
 
 ```[python]
@@ -49,7 +49,7 @@ dist/
     pylidator-x.y.x.whl
     pylidator-x.y.z.tar.gz
 
-$ pip install dist/pylidator-0.0.1.whl or dist/pylidator-0.0.1.tar.gz 
+$ pip install dist/pylidity-x.y.z.whl or dist/pylidity-x.y.z.tar.gz 
 
 ```
 
