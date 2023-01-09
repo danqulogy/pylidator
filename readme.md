@@ -8,12 +8,12 @@ A very good validation library for Python. It features both decorator and non-de
 pip install pylidator
 ```
 
-```[bash]
+<!-- ```[bash]
 # code.py
 from pylidator import contains
 
 contains("Hello world", "world")
-```
+``` -->
 
 ## Contributing
 
