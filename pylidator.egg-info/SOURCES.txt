@@ -1,0 +1,10 @@
+pyproject.toml
+setup.cfg
+pylidator/__init__.py
+pylidator/validators.py
+pylidator.egg-info/PKG-INFO
+pylidator.egg-info/SOURCES.txt
+pylidator.egg-info/dependency_links.txt
+pylidator.egg-info/top_level.txt
+test/__init__.py
+test/test_validators.py
